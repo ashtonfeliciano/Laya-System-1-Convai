@@ -1,0 +1,6 @@
+{"id": "1", "text": "backup job finished: 412 files copied, 0 skipped"}
+{"id": "2", "text": "ERROR fetch_forecast: request timed out after 30s (weather-feed)"}
+{"id": "3", "text": "nightly report sent to inbox at 06:02"}
+{"id": "4", "text": "disk check: 61% used on /srv"}
+{"id": "5", "text": "price-sync refused: API key expired"}
+{"id": "6", "text": "starting worker 3 of 4"}

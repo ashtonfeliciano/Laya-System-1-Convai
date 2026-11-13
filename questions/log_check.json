@@ -1,0 +1,14 @@
+{
+ "about": "Flag log lines that report a failure. Pick-one beat yes/no in my tests: the yes/no version called almost every line a failure.",
+ "questions": {
+  "failure": {
+   "type": "choice",
+   "instructions": "What does this log line report?",
+   "criteria": {
+    "failed": "Something failed, crashed, errored, timed out, was refused, or did not run.",
+    "worked": "A step finished, passed, started, or reported normal counts or settings.",
+    "other": "Neither of those."
+   }
+  }
+ }
+}
